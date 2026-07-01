@@ -65,3 +65,4 @@ A `parking_lot.db` SQLite file will be created automatically in the project root
 AUTHOR
 
 KANVADITHYA GANAPATHI TIGULLA
+LINKEDIN URL: https://linkedin.com/in/kanvadithya-ganapathi-tigulla/
