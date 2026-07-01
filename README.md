@@ -60,3 +60,7 @@ A `parking_lot.db` SQLite file will be created automatically in the project root
 5. View total revenue
 6. Exit
 ```
+
+
+AUTHOR
+KANVADITHYA GANAPATHI TIGULLA
